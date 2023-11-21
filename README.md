@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
-https://github.com/emijrp
+<!--
+
 **jotero24/jotero24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> I enjoyed this read of https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+For more reads https://github.com/emijrp
